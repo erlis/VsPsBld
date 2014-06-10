@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>AN-Build-Template</id>
+    <version>1.0.1</version>
+    <authors>Erlis Vidal</authors>
+    <owners>AutoNation</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Template used to create the automated build for the project using psake.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2014</copyright>
+  </metadata>
+</package>

@@ -1,0 +1,1 @@
+nuget pack Package.nuspec -version 1.0.7
